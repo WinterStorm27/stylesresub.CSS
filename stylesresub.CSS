@@ -1,0 +1,17 @@
+ .card {/* Border style */
+       box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
+        border-style: solid; border-width: 1px;
+        border-color: gray; width:300px; height:100%;
+        padding:1em; margin:20px 20px 20px 20px;}
+
+        h1 {padding:15px;font:45px}
+
+        p   {background-color:bisque; border-style: solid; 
+            border-width:1px; border-color:gray; 
+            margin-left: 10px; margin-right:10px;
+            margin-bottom:10px; padding:1em }
+
+        body {font-family:'Times New Roman', Times, serif;
+                font-size:18px}
+
+        img {padding-right:0.5em;width:300px;}
